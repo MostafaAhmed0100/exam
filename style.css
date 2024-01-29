@@ -1,0 +1,79 @@
+body{
+    background-image: url("images/endless-constellation.svg");
+}
+
+i{
+    cursor: pointer;
+    font-size: 30px;
+    position: absolute;
+    top: 50%;
+    left: 20px;
+}
+.A{
+    background-color: white;
+    width: 66px;
+    height: 100%;
+}
+.offcanvas{
+    background-color: rgba(0, 0, 0, 0.342);
+    color: white;
+}
+.icon{
+    position: absolute;
+    top: 95%;
+    font-size: 20px;
+}
+.icon-2{
+    position: absolute;
+    top: 90%;
+    font-size: 20px;
+}
+.btn-close{
+    background-color: white;
+}
+ul li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.btn-close{
+    position: absolute;
+    top: 50%;
+    left: 89%;
+    font-size: 27px;
+}
+.globel{
+    position: absolute;
+    top: 80%;
+    font-size: 20px;
+}
+.face{
+    position: absolute;
+    top: 80%;
+    left: 15%;
+    font-size: 20px;
+
+}
+.twit{
+    position: absolute;
+    top: 80%;
+    left: 24%;
+    font-size: 20px;
+
+}
+p{
+    position: absolute;
+    top: 85%;
+    left: 2%;
+}
+.MA{
+    left: 35%;
+}
+#fa{
+    left: 35%;
+}
+#faa{
+    left: 35%;
+}
